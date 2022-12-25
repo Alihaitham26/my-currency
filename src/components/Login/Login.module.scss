@@ -1,0 +1,34 @@
+.login{
+  padding: 10px;
+  padding-top: 0px;
+  position: absolute;
+  width: 300px;
+  background-color: #14213D;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.create {
+  padding: 10px 0;
+  text-align: center;
+  margin-top: 10px;
+  border: 2px solid #eee;
+  h3 {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  input {
+    display: block;
+    margin: 5px auto;
+    height: 20px;
+  }
+  button {
+    margin: 10px 0;
+    width: 120px;
+    height: 30px;
+  }
+  p{
+    margin: 3px;
+    color: yellow;
+  }
+}
